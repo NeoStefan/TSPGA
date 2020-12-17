@@ -1,0 +1,15 @@
+{
+  "name": "tspga",
+  "version": "1.0.0",
+  "description": "Travelling Salesperson Problem with Genetic Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ML",
+    "TSP"
+  ],
+  "author": "Neo",
+  "license": "ISC"
+}
